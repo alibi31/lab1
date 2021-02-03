@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:22:33:54 +0600] "GET /LiquorStoreApp HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:22:33:54 +0600] "GET /LiquorStoreApp/ HTTP/1.1" 200 482 http-bio-8080-exec-3 8
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:22:33:54 +0600] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:22:33:57 +0600] "POST /LiquorStoreApp/SelectLiquor HTTP/1.1" 200 151 http-bio-8080-exec-5 390
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:22:34:01 +0600] "POST /LiquorStoreApp/SelectLiquor HTTP/1.1" 200 147 http-bio-8080-exec-6 1
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:22:34:05 +0600] "POST /LiquorStoreApp/SelectLiquor HTTP/1.1" 200 122 http-bio-8080-exec-7 1
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:22:34:30 +0600] "POST /LiquorStoreApp/SelectLiquor HTTP/1.1" 200 147 http-bio-8080-exec-8 1
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:22:34:57 +0600] "POST /LiquorStoreApp/SelectLiquor HTTP/1.1" 200 151 http-bio-8080-exec-9 1
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:22:35:44 +0600] "GET /LiquorStoreApp HTTP/1.1" 302 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:22:35:44 +0600] "GET /LiquorStoreApp/ HTTP/1.1" 200 482 http-bio-8080-exec-3 1
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:22:35:44 +0600] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:22:35:52 +0600] "POST /LiquorStoreApp/SelectLiquor HTTP/1.1" 200 151 http-bio-8080-exec-3 2
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:22:36:12 +0600] "GET /LiquorStoreApp HTTP/1.1" 302 - http-bio-8080-exec-8 0
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:22:36:14 +0600] "POST /LiquorStoreApp/SelectLiquor HTTP/1.1" 200 151 http-bio-8080-exec-8 1
+0:0:0:0:0:0:0:1 - - [03/Feb/2021:22:36:19 +0600] "POST /LiquorStoreApp/SelectLiquor HTTP/1.1" 200 122 http-bio-8080-exec-8 2
